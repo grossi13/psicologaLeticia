@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/psicologaLeticia/static/css/main.03f96695.css",
+    "main.js": "/psicologaLeticia/static/js/main.3120bca3.js",
+    "static/media/fotoLeticia2.png": "/psicologaLeticia/static/media/fotoLeticia2.ff6b63ff2c42d1b70f8e.png",
+    "static/media/magico.jpeg": "/psicologaLeticia/static/media/magico.c8e43ae9e29af739917d.jpeg",
+    "static/media/thisisus.jpeg": "/psicologaLeticia/static/media/thisisus.097b1b0caa5a4c441f95.jpeg",
+    "static/media/holocaustro.jpeg": "/psicologaLeticia/static/media/holocaustro.efc92f7dc4f99ef8e7f1.jpeg",
+    "static/media/comunicacao.jpeg": "/psicologaLeticia/static/media/comunicacao.9326ce2b042db6ff0bdb.jpeg",
+    "index.html": "/psicologaLeticia/index.html",
+    "main.03f96695.css.map": "/psicologaLeticia/static/css/main.03f96695.css.map",
+    "main.3120bca3.js.map": "/psicologaLeticia/static/js/main.3120bca3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.03f96695.css",
+    "static/js/main.3120bca3.js"
+  ]
+}
